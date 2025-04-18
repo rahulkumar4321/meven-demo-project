@@ -9,6 +9,6 @@ public class DemoController {
 	@GetMapping("/demo")
 	public String getname()
 	{
-		return "hello maven";
+		return "hello maven hiii";
 	}
 }
